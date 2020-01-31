@@ -1,0 +1,9 @@
+﻿cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  stdafx.cpp
+cl : командная строка warning D9035: использование параметра "clr:pure" нежелательно, он будет удален в следующих выпусках
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: RequestMinimum: помечен как устаревший
+  AssemblyInfo.cpp(40): note: Сообщение: "Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information."
+  z1.cpp
+  Создание кода...
+LINK : fatal error LNK1207: эхёютьхёЄшь√щ ЇюЁьрЄ PDB т "C:\LAB8\z1\Debug\z1.pdb"; єфрышЄх ш яхЁхёЄЁющЄх

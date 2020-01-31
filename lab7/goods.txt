@@ -1,0 +1,4 @@
+Juice	70
+Bread	30
+test	123
+Milk	45
